@@ -21,3 +21,17 @@ class SettingsActivity : AppCompatActivity() {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
